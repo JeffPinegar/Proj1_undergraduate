@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#api_keys
+api_keys.py
+
+#large CSV files
+*.csv
+*.xlsx
+*.pptx
