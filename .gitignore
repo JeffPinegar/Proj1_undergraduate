@@ -135,4 +135,4 @@ api_keys.py
 #large CSV files
 *.csv
 *.xlsx
-*.pptx
+
