@@ -132,8 +132,6 @@ dmypy.json
 #api_keys
 api_keys.py
 
-#large CSV files
-*.xlsx
 
 # Original Source files directory
 Original_Data_Source_files/
