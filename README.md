@@ -223,10 +223,9 @@ Do I need to compromise to stay out of debt?</span></p>
 
 <p class=MsoNormal style='margin-bottom:0in'><span style='font-family:"Arial",sans-serif'>Q3: 
 If there are options, can I get in?</span></p>
-
-<h2 style='margin-top:0in'><span style='font-size:11.0pt;line-height:115%;
-font-family:"Arial",sans-serif;font-weight:normal'>Q4:  If I get in, I’m I
-likely to graduate?</span></h2>
+	
+<p class=MsoNormal style='margin-bottom:0in'><span style='font-family:"Arial",sans-serif'>Q4: 
+If I get in, I’m I likely to graduate?</span></p>	
 
 <p class=MsoNormal style='margin-bottom:0in'><span style='font-family:"Arial",sans-serif'>Q5: 
 Will my choice affect my future earnings?</span></p>
