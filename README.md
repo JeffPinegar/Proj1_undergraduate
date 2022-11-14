@@ -1,7 +1,6 @@
 # Proj1_undergraduate
 Project 1:  Undergraduate College Tuition
 <html>
-
 <html>
 
 <head>
@@ -295,4 +294,3 @@ Q1 students will have less time on the job at year 6 and, thus, lower earnings.
 </body>
 
 </html>
-
