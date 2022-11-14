@@ -173,13 +173,10 @@ Members:</span></b></p>
 
 <p class=MsoNormal style='margin-bottom:0in;text-indent:.5in'><span
 style='font-family:"Arial",sans-serif'>Charles Ballou</span></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-indent:.5in'><span
 style='font-family:"Arial",sans-serif'>Elizabeth Ho</span></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-indent:.5in'><span
 style='font-family:"Arial",sans-serif'>Cara Monastra</span></p>
-
 <p class=MsoNormal style='margin-bottom:0in;text-indent:.5in'><span
 style='font-family:"Arial",sans-serif'>Jeff Pinegar</span></p>
 
